@@ -41,9 +41,6 @@ LifeLine est une application mobile d'urgence conçue pour fournir un accès rap
 
 Les contributions à ce projet sont les bienvenues. N'hésitez pas à ouvrir une issue ou à soumettre une pull request.
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ## Contact
 
